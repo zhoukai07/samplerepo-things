@@ -3,3 +3,5 @@ berries
 cherries
 lemon
 kiwi
+banana
+honeydew
